@@ -1,7 +1,12 @@
 {
   "lit-demo": {
     "slug": "demo",
-    "long_name": "Content to help with functional testing",
+    "long_name": "Defining Work",
+    "author": "Martin Dusinberre et al"
+  },
+  "lit-functional": {
+    "slug": "functional-test",
+    "long_name": "Content needed to fuctionally test marugoto engine",
     "author": "Vitamin2"
   }
 }
