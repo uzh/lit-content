@@ -1,3 +1,6 @@
+[submodule "lit-functional"]
+	path = lit-functional
+	url = https://github.com/uzh/lit-functional
 [submodule "lit-demo"]
 	path = lit-demo
 	url = https://github.com/uzh/lit-demo
