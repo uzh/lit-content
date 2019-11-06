@@ -10,8 +10,7 @@ git clone --recursive https://github.com/uzh/lit-content
 
 ## [`metadata.json`](https://github.com/uzh/lit-content/blob/master/metadata.json)
 
-The [`metadata.json`](https://github.com/uzh/lit-content/blob/master/metadata.json) file contains information about each topic. Some fields within this JSON will be used during the deployment process for Lives in Transit and its test instance.
-
+The [`metadata.json`](https://github.com/uzh/lit-content/blob/master/metadata.json) file contains information about each topic. Some fields within this JSON will be used during the deployment process for *Lives in Transit* and its test instance.
 
 ## Adding a topic
 
