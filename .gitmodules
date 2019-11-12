@@ -4,3 +4,6 @@
 [submodule "lit-demo"]
 	path = lit-demo
 	url = https://github.com/uzh/lit-demo
+[submodule "lit-plantation-lives"]
+	path = lit-plantation-lives
+	url = https://gitlab.uzh.ch/lit/lit-plantation-lives

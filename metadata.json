@@ -8,5 +8,10 @@
     "slug": "functional-test",
     "long_name": "Content needed to fuctionally test marugoto engine",
     "author": "Vitamin2"
+  },
+  "lit-plantation-lives": {
+    "slug": "plantation-lives",
+    "long_name": "Plantation Lives",
+    "author": "Martin Dusinberre"
   }
 }
