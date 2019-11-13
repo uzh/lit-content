@@ -1,0 +1,4 @@
+# ignore hidden folders (due to the way marugoto is deployed)
+
+.*/
+

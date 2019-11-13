@@ -23,3 +23,7 @@ If you want to add a topic, and you know how to use git, we suggest:
 5. Submit a pull request
 
 If you don't know git, just [create an issue](https://github.com/uzh/lit-content/issues/new) and provide your content as a link or a download. We might ask for some metadata (i.e. your name, collaborators etc.). Once we have everything we need, we will set your content up as a repository, and link it to this repo as a submodule.
+
+## Gotchas
+
+This repo will ignore any hidden folders in the root directory, due to the way the marugoto deployment works. Bear this in mind!
