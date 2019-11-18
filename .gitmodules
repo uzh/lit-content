@@ -7,3 +7,6 @@
 [submodule "lit-plantation-lives"]
 	path = lit-plantation-lives
 	url = https://gitlab.uzh.ch/lit/lit-plantation-lives
+[submodule "lit-madness"]
+	path = lit-madness
+	url = https://gitlab.uzh.ch/lit/lit-madness

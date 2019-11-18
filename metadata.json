@@ -13,5 +13,10 @@
     "slug": "plantation-lives",
     "long_name": "Plantation Lives",
     "author": "Martin Dusinberre"
+  },
+  "lit-madness": {
+    "slug": "madness",
+    "long_name": "Madness",
+    "author": "Helena Jaskov"
   }
 }
