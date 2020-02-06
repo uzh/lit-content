@@ -10,3 +10,6 @@
 [submodule "lit-madness"]
 	path = lit-madness
 	url = https://gitlab.uzh.ch/lit/lit-madness
+[submodule "lit-foxes"]
+	path = lit-foxes
+	url = https://gitlab.uzh.ch/lit/lit-foxes.git
