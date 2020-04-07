@@ -13,3 +13,6 @@
 [submodule "lit-foxes"]
 	path = lit-foxes
 	url = https://gitlab.uzh.ch/lit/lit-foxes.git
+[submodule "lit-tutorial"]
+	path = lit-tutorial
+	url = https://github.com/uzh/lit-tutorial
