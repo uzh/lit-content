@@ -27,3 +27,5 @@ If you don't know git, just [create an issue](https://github.com/uzh/lit-content
 ## Gotchas
 
 This repo will ignore any hidden folders in the root directory, due to the way the marugoto deployment works. Bear this in mind!
+
+Anything else? Let us know!

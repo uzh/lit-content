@@ -18,5 +18,10 @@
     "slug": "madness",
     "long_name": "Madness",
     "author": "Helena Jaskov"
+  },
+  "lit-feelingthepast": {
+    "slug": "feelingthepast",
+    "long_name": "Feeling the past",
+    "author": "Henrik Jochum"
   }
 }
