@@ -16,3 +16,6 @@
 [submodule "lit-tutorial"]
 	path = lit-tutorial
 	url = https://github.com/uzh/lit-tutorial
+[submodule "lit-feelingthepast"]
+	path = lit-feelingthepast
+	url = https://github.com/interrogator/lit-feelingthepast
